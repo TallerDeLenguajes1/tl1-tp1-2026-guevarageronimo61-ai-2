@@ -1,5 +1,5 @@
 // codigo_roto.c
-
+// aqui la respuesta explicando los cambios
 void duplicar_numero(int *numero) {
     *numero = (*numero) * 2;
 }
